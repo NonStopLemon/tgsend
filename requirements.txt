@@ -1,0 +1,8 @@
+django
+gunicorn
+django-heroku
+pyTelegramBotApi
+simplejson
+psycopg2
+whitenoise
+dj-database-url
